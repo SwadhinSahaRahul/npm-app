@@ -1,6 +1,6 @@
 const _ = require('lodash');
 
-function shadowMaker(options) {
+export function shadowMaker(options) {
     let images = document.querySelectorAll('.shadow-maker');
 
     if (options.shadow_type === 'hard')
@@ -17,4 +17,4 @@ function shadowMaker(options) {
 
 }
 
-export {shadowMaker}
+export default shadowMaker();
