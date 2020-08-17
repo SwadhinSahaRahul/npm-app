@@ -1,6 +1,6 @@
 {
   "name": "shadowmaker-first-try",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My first try for making npm package.",
   "main": "index.js",
   "scripts": {
