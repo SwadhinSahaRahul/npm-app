@@ -14,5 +14,4 @@ export function shadowMaker(options) {
             image.style.padding = '1em'
         }
     })
-
 }
