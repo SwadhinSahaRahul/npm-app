@@ -1,4 +1,4 @@
-const _ = require('lodash');
+import _ from 'lodash';
 
 export function shadowMaker(options) {
     let images = document.querySelectorAll('.shadow-maker');
@@ -16,5 +16,3 @@ export function shadowMaker(options) {
     })
 
 }
-
-export default shadowMaker();
