@@ -1,5 +1,5 @@
 {
-  "name": "npm-app",
+  "name": "shadowmaker",
   "version": "1.0.0",
   "description": "My first try for making npm package.",
   "main": "index.js",
